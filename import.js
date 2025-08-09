@@ -13,6 +13,7 @@ const __dirname = path.dirname(__filename);
 
 // Path to your JSON data file
 const dataFilePath = path.join(__dirname, "books.json");
+console.log(dataFilePath);
 
 const importData = async () => {
 	try {
