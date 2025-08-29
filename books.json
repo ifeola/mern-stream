@@ -1,182 +1,182 @@
 [
-  {
-    "title": "The Women",
-    "author": "Kristin Hannah",
-    "price": 20.98,
-    "image": "https://www.google.com/search?q=The+Women+Kristin+Hannah+cover+image&tbm=isch&ved=2ahUKEwj-oP_w2fyGAxX4bPEDHcSdCsgQ2-cCegQIABAA&oq=The+Women+Kristin+Hannah+cover+image&gs_lp=EgNpbWciIlRoZSBXb21lbiBLcmlzdGluIEhhbm5haCBjb3ZlciBpbWFnZSoCCAAyBRAAGIAEMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj2R1AAWOs_cAF4AJABAJgBdaABqRqqAQQyNS44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=p4yeZsnkGvjZxc8PxLuqwAw&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Historical Fiction",
-    "stock": 58
-  },
-  {
-    "title": "A Court of Thorns and Roses",
-    "author": "Sarah J. Maas",
-    "price": 14.96,
-    "image": "https://www.google.com/search?q=A+Court+of+Thorns+and+Roses+Sarah+J.+Maas+cover+image&tbm=isch&ved=2ahUKEwiW3fSE2vyGAxX_oGYCHU_FCgMQ2-cCegQIABAA&oq=A+Court+of+Thorns+and+Roses+Sarah+J.+Maas+cover+image&gs_lp=EgNpbWciNkEgaW1hZ2UgT2YgQSBDb3VydCBvZiBUaG9ybnMgYW5kIFJvc2VzIGJ5IFNhcmFoIEouIE1hYXMqAggAMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj2W1AAWFxwAHgAkAEAmAF5oAG-CqoBAzcuNbgBA8gBAPgBAYoCEGVyZ3dzLXdpei1pbWfCAgQQIxgnwgIKGIAEGIoFGEPCwgIEEAAYAzIICBAAGAgYBxgeiAYB&sclient=img&ei=rYyeZtf8Mf_BmysfT8WrgAw&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=L5Jgq-yL3Y8qSM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2015,
-    "genre": "Fantasy Romance",
-    "stock": 81
-  },
-  {
-    "title": "The Housemaid",
-    "author": "Freida McFadden",
-    "price": 14.24,
-    "image": "https://www.google.com/search?q=The+Housemaid+Freida+McFadden+cover+image&tbm=isch&ved=2ahUKEwjA8f6S2vyGAxWaYPEDHWD0B9MQ2-cCegQIABAA&oq=The+Housemaid+Freida+McFadden+cover+image&gs_lp=EgNpbWciK1RoZSBIb3VzZW1haWQgQnkgRnJlaWRhIE1jRmFkZGVuIGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=uIyeZu_0Nprjxc8P4Oi-mAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2022,
-    "genre": "Psychological Thriller",
-    "stock": 33
-  },
-  {
-    "title": "Atomic Habits",
-    "author": "James Clear",
-    "price": 11.99,
-    "image": "https://www.google.com/search?q=Atomic+Habits+James+Clear+cover+image&tbm=isch&ved=2ahUKEwj_oO_C2vyGAxXIXPEDHf2aBqAQ2-cCegQIABAA&oq=Atomic+Habits+James+Clear+cover+image&gs_lp=EgNpbWciJ0F0b21pYyBIYWJpdHMgYnkgSmFtZXMgQ2xlYXIgY292ZXIgaW1hZ2UqAggAMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkiuWlAAWLk-cAF4AJABAJgBe6ABshCqAQMxOC42uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=woyeZt6qAcivx88P_bWagAo&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2018,
-    "genre": "Self-help",
-    "stock": 92
-  },
-  {
-    "title": "It Ends with Us",
-    "author": "Colleen Hoover",
-    "price": 10.99,
-    "image": "https://www.google.com/search?q=It+Ends+with+Us+Colleen+Hoover+cover+image&tbm=isch&ved=2ahUKEwiyzLPC2vyGAxXAXfEDHWEzA_AQ2-cCegQIABAA&oq=It+Ends+with+Us+Colleen+Hoover+cover+image&gs_lp=EgNpbWciLEl0IEVuZHMgd2l0aCBVcyBCeSBDb2xsZWVuIEhvb3ZlciBjb3ZlciBpbWFnZSoCCAAyBRAAGIAEMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj0WlAAWME-cAF4AJABAJgBdaABrhGqAQMyMC43uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=xIyeZviMBcDDx88P4ZmMgA8&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2016,
-    "genre": "Romance",
-    "stock": 67
-  },
-  {
-    "title": "Iron Flame",
-    "author": "Rebecca Yarros",
-    "price": 22.99,
-    "image": "https://www.google.com/search?q=Iron+Flame+Rebecca+Yarros+cover+image&tbm=isch&ved=2ahUKEwj4lP2K2vyGAxX2afEDHWWYBTAQ2-cCegQIABAA&oq=Iron+Flame+Rebecca+Yarros+cover+image&gs_lp=EgNpbWciJklucm9uIEZsYW1lIGJ5IFJlYmVjY2EgWWFycm9zIGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=yYyeZtiqGfahx88P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2023,
-    "genre": "Fantasy Romance",
-    "stock": 41
-  },
-  {
-    "title": "Fourth Wing",
-    "author": "Rebecca Yarros",
-    "price": 16.55,
-    "image": "https://www.google.com/search?q=Fourth+Wing+Rebecca+Yarros+cover+image&tbm=isch&ved=2ahUKEwj9gLqG2vyGAxX7YPEDHWWYBTAQ2-cCegQIABAA&oq=Fourth+Wing+Rebecca+Yarros+cover+image&gs_lp=EgNpbWciJ0ZvdXJ0aCBXaW5nIGJ5IFJlYmVjY2EgWWFycm9zIGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkiuWlAAWLk-cAF4AJABAJgBe6ABshCqAQMxOC42uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=zIyeZt-lBvuxw88P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2023,
-    "genre": "Fantasy Romance",
-    "stock": 55
-  },
-  {
-    "title": "A Court of Mist and Fury",
-    "author": "Sarah J. Maas",
-    "price": 15.20,
-    "image": "https://www.google.com/search?q=A+Court+of+Mist+and+Fury+Sarah+J.+Maas+cover+image&tbm=isch&ved=2ahUKEwj8xIuA2vyGAxWlZPEDHWWYBTAQ2-cCegQIABAA&oq=A+Court+of+Mist+and+Fury+Sarah+J.+Maas+cover+image&gs_lp=EgNpbWciMkEgaW1hZ2UgT2YgQSBDb3VydCBvZiBNaXN0IGFuZCBGdXJ5IGJ5IFNhcmFoIEouIE1hYXMqAggAMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj2WlAAWMU-cAF4AJABAJgBdaABrhGqAQMyMC43uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=z4yeZtz1J6XLxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2016,
-    "genre": "Fantasy Romance",
-    "stock": 72
-  },
-  {
-    "title": "It Starts with Us",
-    "author": "Colleen Hoover",
-    "price": 12.87,
-    "image": "https://www.google.com/search?q=It+Starts+with+Us+Colleen+Hoover+cover+image&tbm=isch&ved=2ahUKEwiy8L6A2vyGAxXyZfEDHWWYBTAQ2-cCegQIABAA&oq=It+Starts+with+Us+Colleen+Hoover+cover+image&gs_lp=EgNpbWciLEl0IFN0YXJ0cyB3aXRoIFVzIEJ5IENvbGxlZW4gSG9vdmVyIGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj0WlAAWMU-cAF4AJABAJgBdaABrhGqAQMyMC43uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=0YyeZt-YAfLLxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2022,
-    "genre": "Romance",
-    "stock": 61
-  },
-  {
-    "title": "Funny Story",
-    "author": "Emily Henry",
-    "price": 18.99,
-    "image": "https://www.google.com/search?q=Funny+Story+Emily+Henry+cover+image&tbm=isch&ved=2ahUKEwiZkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=Funny+Story+Emily+Henry+cover+image&gs_lp=EgNpbWciJkZ1bm55IFN0b3J5IGJ5IEVtaWx5IEhlbnJ5IGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=04yeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Romance",
-    "stock": 88
-  },
-  {
-    "title": "Just for the Summer",
-    "author": "Abby Jimenez",
-    "price": 17.99,
-    "image": "https://www.google.com/search?q=Just+for+the+Summer+Abby+Jimenez+cover+image&tbm=isch&ved=2ahUKEwjGkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=Just+for+the+Summer+Abby+Jimenez+cover+image&gs_lp=EgNpbWciL0p1c3QgZm9yIHRoZSBTdW1tZXIgYnkgQWJieSBKaW1lbmV6IGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=1IyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Romance",
-    "stock": 25
-  },
-  {
-    "title": "The Wedding People",
-    "author": "Alison Espach",
-    "price": 26.04,
-    "image": "https://www.google.com/search?q=The+Wedding+People+Alison+Espach+cover+image&tbm=isch&ved=2ahUKEwi7kZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=The+Wedding+People+Alison+Espach+cover+image&gs_lp=EgNpbWciLVRoZSBXZWRkaW5nIFBlb3BsZSBieSBBbGlzb24gRXNwYWNoIGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=1YyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Fiction",
-    "stock": 49
-  },
-  {
-    "title": "The God of the Woods",
-    "author": "Liz Moore",
-    "price": 26.04,
-    "image": "https://www.google.com/search?q=The+God+of+the+Woods+Liz+Moore+cover+image&tbm=isch&ved=2ahUKEwiEkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=The+God+of+the+Woods+Liz+Moore+cover+image&gs_lp=EgNpbWciK1RoZSBHb2Qgb2YgdGhlIFdvb2RzIGJ5IExpemEgTW9vcmUgY292ZXIgaW1hZ2UqAggAMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=1oyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Thriller",
-    "stock": 19
-  },
-  {
-    "title": "James",
-    "author": "Percival Everett",
-    "price": 20.95,
-    "image": "https://www.google.com/search?q=James+by+Percival+Everett+cover+image&tbm=isch&ved=2ahUKEwjmkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=James+by+Percival+Everett+cover+image&gs_lp=EgNpbWciJkphbWVzIGJ5IFBlcmNpdmFsIEV2ZXJldHQgY292ZXIgaW1hZ2UqAggAMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=2IyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Historical Fiction",
-    "stock": 77
-  },
-  {
-    "title": "The Ministry of Time",
-    "author": "Kaliane Bradley",
-    "price": 28.99,
-    "image": "https://www.google.com/search?q=The+Ministry+of+Time+Kaliane+Bradley+cover+image&tbm=isch&ved=2ahUKEwjqkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=The+Ministry+of+Time+Kaliane+Bradley+cover+image&gs_lp=EgNpbWciL1RoZSBNaW5pc3RyeSBvZiBUaW1lIGJ5IEthbGlhbmUgQnJhZGxleSBjb3ZlciBpbWFnZSoCCAAyBRAAGIAEMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=2YyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Science Fiction",
-    "stock": 36
-  },
-  {
-    "title": "Nuclear War: A Scenario",
-    "author": "Annie Jacobsen",
-    "price": 18.87,
-    "image": "https://www.google.com/search?q=Nuclear+War:+A+Scenario+by+Annie+Jacobsen+cover+image&tbm=isch&ved=2ahUKEwjGkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=Nuclear+War:+A+Scenario+by+Annie+Jacobsen+cover+image&gs_lp=EgNpbWciN051Y2xlYXIgV2FyOiBBIHNjZW5hcmlvIGJ5IEFubmllIEphY29ic2VuIGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=2oyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Non-fiction",
-    "stock": 12
-  },
-  {
-    "title": "Happy Place",
-    "author": "Emily Henry",
-    "price": 14.99,
-    "image": "https://www.google.com/search?q=Happy+Place+Emily+Henry+cover+image&tbm=isch&ved=2ahUKEwjwkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=Happy+Place+Emily+Henry+cover+image&gs_lp=EgNpbWciJkhhcHB5IFBsYWNlIGJ5IEVtaWx5IEhlbnJ5IGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=24yeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2023,
-    "genre": "Romance",
-    "stock": 99
-  },
-  {
-    "title": "The Housemaid's Secret",
-    "author": "Freida McFadden",
-    "price": 14.24,
-    "image": "https://www.google.com/search?q=The+Housemaid%27s+Secret+Freida+McFadden+cover+image&tbm=isch&ved=2ahUKEwjGkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=The+Housemaid%27s+Secret+Freida+McFadden+cover+image&gs_lp=EgNpbWciL1RoZSBob3VzZW1haWQncyBzZWNyZXQgYnkgRnJlaWRhIE1jRmFkZGVuIGNvdmVyIGltYWdlKgIIADIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=3IyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2023,
-    "genre": "Psychological Thriller",
-    "stock": 29
-  },
-  {
-    "title": "The Scarlet Shedder",
-    "author": "Dav Pilkey",
-    "price": 14.99,
-    "image": "https://www.google.com/search?q=The+Scarlet+Shedder+by+Dav+Pilkey+cover+image&tbm=isch&ved=2ahUKEwjwkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=The+Scarlet+Shedder+by+Dav+Pilkey+cover+image&gs_lp=EgNpbWciLVRoZSBTY2FybGV0IFNoZWRkZXIgYnkgRGF2IFBpbGtleSBjb3ZlciBpbWFnZSoCCAAyBRAAGIAEMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkj-U1AAWLg-cAF4AJABAJgBdaABsBqqAQQyNC44uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=3YyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2024,
-    "genre": "Children's Book",
-    "stock": 100
-  },
-  {
-    "title": "Onyx Storm",
-    "author": "Rebecca Yarros",
-    "price": 23.09,
-    "image": "https://www.google.com/search?q=Onyx+Storm+by+Rebecca+Yarros+cover+image&tbm=isch&ved=2ahUKEwjwkZ5-2vyGAxXlYfEDHWWYBTAQ2-cCegQIABAA&oq=Onyx+Storm+by+Rebecca+Yarros+cover+image&gs_lp=EgNpbWciJ09ueXggU3Rvcm0gYnkgUmViZWNjYSBZYXJyb3MgY292ZXIgaW1hZ2UqAggAMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkiuWlAAWLk-cAF4AJABAJgBe6ABshCqAQMxOC42uAEDyAEA-AEBigELZ3dzLXdpei1pbWfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBBAAGAPCAggQABgIGAcYHogGAQ&sclient=img&ei=3oyeZt3pA-XDxc8P5bCFgAU&bih=708&biw=1440&prmd=isvnmbtz&rlz=1C5CHFA_enUS1064US1064#vhid=5_uIfwB1L-O5uM&vht=426&vhs=0&vhm=2&lnr=10&生命周期=0",
-    "year": 2025,
-    "genre": "Fantasy Romance",
-    "stock": 15
-  }
+	{
+		"title": "Every Leaf a Hallelujah",
+		"author": "Ben Okri",
+		"price": 12.99,
+		"image": "https://ia600505.us.archive.org/view_archive.php?archive=/5/items/m_covers_0012/m_covers_0012_42.zip&file=0012422903-M.jpg",
+		"year": 2021,
+		"genre": "Children",
+		"stock": 10
+	},
+	{
+		"title": "Noor",
+		"author": "Nnedi Okorafor",
+		"price": 14.99,
+		"image": "https://covers.openlibrary.org/b/isbn/9780756416096-M.jpg",
+		"year": 2021,
+		"genre": "Science Fiction",
+		"stock": 8
+	},
+	{
+		"title": "Blackout",
+		"author": "Dhonielle Clayton et al.",
+		"price": 16.5,
+		"image": "https://covers.openlibrary.org/b/isbn/9780063088092-M.jpg",
+		"year": 2021,
+		"genre": "Young Adult",
+		"stock": 12
+	},
+	{
+		"title": "Revolution in Our Time",
+		"author": "Kekla Magoon",
+		"price": 18.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9780763696502-M.jpg",
+		"year": 2021,
+		"genre": "Nonfiction",
+		"stock": 6
+	},
+	{
+		"title": "The Book of Longings",
+		"author": "Sue Monk Kidd",
+		"price": 13.5,
+		"image": "https://covers.openlibrary.org/b/isbn/9780735221121-M.jpg",
+		"year": 2020,
+		"genre": "Historical Fiction",
+		"stock": 9
+	},
+	{
+		"title": "The Glass Hotel",
+		"author": "Emily St. John Mandel",
+		"price": 15.75,
+		"image": "https://covers.openlibrary.org/b/isbn/9780735279755-M.jpg",
+		"year": 2020,
+		"genre": "Fiction",
+		"stock": 7
+	},
+	{
+		"title": "The Mirror and the Light",
+		"author": "Hilary Mantel",
+		"price": 20.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9781250209763-M.jpg",
+		"year": 2020,
+		"genre": "Historical Fiction",
+		"stock": 5
+	},
+	{
+		"title": "The Only Good Indians",
+		"author": "Stephen Graham Jones",
+		"price": 14.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9781982128080-M.jpg",
+		"year": 2020,
+		"genre": "Horror",
+		"stock": 11
+	},
+	{
+		"title": "When These Mountains Burn",
+		"author": "David Joy",
+		"price": 13.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9781250183725-M.jpg",
+		"year": 2020,
+		"genre": "Crime",
+		"stock": 6
+	},
+	{
+		"title": "Luster",
+		"author": "Raven Leilani",
+		"price": 12.5,
+		"image": "https://covers.openlibrary.org/b/isbn/9780374600017-M.jpg",
+		"year": 2020,
+		"genre": "Fiction",
+		"stock": 8
+	},
+	{
+		"title": "Fiebre Tropical",
+		"author": "Juliana Delgado Lopera",
+		"price": 13.25,
+		"image": "https://covers.openlibrary.org/b/isbn/9781644873861-M.jpg",
+		"year": 2020,
+		"genre": "Fiction",
+		"stock": 10
+	},
+	{
+		"title": "Aunt Nellie's Story",
+		"author": "Louisa May Alcott",
+		"price": 9.99,
+		"image": "https://covers.openlibrary.org/b/isbn/9781522712985-M.jpg",
+		"year": 2020,
+		"genre": "Classics",
+		"stock": 14
+	},
+	{
+		"title": "The Ickabog",
+		"author": "J.K. Rowling",
+		"price": 11.95,
+		"image": "https://covers.openlibrary.org/b/isbn/9781338732870-M.jpg",
+		"year": 2020,
+		"genre": "Fantasy",
+		"stock": 13
+	},
+	{
+		"title": "The Mirror and the Light",
+		"author": "Hilary Mantel",
+		"price": 20.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9781786493001-M.jpg",
+		"year": 2020,
+		"genre": "Historical Fiction",
+		"stock": 5
+	},
+	{
+		"title": "Slow Reading",
+		"author": "John Miedema",
+		"price": 9.5,
+		"image": "https://covers.openlibrary.org/b/isbn/9780980200447-M.jpg",
+		"year": 2009,
+		"genre": "Nonfiction",
+		"stock": 4
+	},
+	{
+		"title": "Don’t Think of an Elephant",
+		"author": "George Lakoff",
+		"price": 10.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9781931498715-M.jpg",
+		"year": 2004,
+		"genre": "Nonfiction",
+		"stock": 7
+	},
+	{
+		"title": "Don’t Think of an Elephant",
+		"author": "George Lakoff",
+		"price": 10.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9781586485195-M.jpg",
+		"year": 2004,
+		"genre": "Nonfiction",
+		"stock": 7
+	},
+	{
+		"title": "Slow Reading",
+		"author": "John Miedema",
+		"price": 9.5,
+		"image": "https://covers.openlibrary.org/b/isbn/9781931498777-M.jpg",
+		"year": 2009,
+		"genre": "Nonfiction",
+		"stock": 4
+	},
+	{
+		"title": "When These Mountains Burn",
+		"author": "David Joy",
+		"price": 13.0,
+		"image": "https://covers.openlibrary.org/b/isbn/9780756404079-M.jpg",
+		"year": 2020,
+		"genre": "Crime",
+		"stock": 6
+	},
+	{
+		"title": "The Glass Hotel",
+		"author": "Emily St. John Mandel",
+		"price": 15.75,
+		"image": "https://covers.openlibrary.org/b/isbn/9781443442567-M.jpg",
+		"year": 2020,
+		"genre": "Fiction",
+		"stock": 7
+	}
 ]

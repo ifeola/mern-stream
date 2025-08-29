@@ -1,5 +1,4 @@
 import Book from "./model/data.model.js";
-import connectDb from "./database/connectDb.js";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 
